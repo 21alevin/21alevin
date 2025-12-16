@@ -1,4 +1,7 @@
 ## Hi there 👋
+Welcome! My name is Anna Levin and I am in my final year of my MS in Epidemiology at Temple University's Barnett College of Public Health. During the 2025 fall semester, I have been learning and working with ArcGIS Pro to create maps that address posed public health problems and with this website, I am sharing with you some of my best work from the course. 
+Thank you for being here and please enjoy my works!
+-Anna 
 
 <!--
 **21alevin/21alevin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
