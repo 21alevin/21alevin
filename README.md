@@ -5,6 +5,10 @@ Thank you for being here and please enjoy my work!
 
 -Anna 
 
+About Me!
+Projects
+Contact
+
 <!--
 **21alevin/21alevin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
